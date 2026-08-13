@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="image_5.png" width="700px" alt="Hazem Mohamed, AI Developer in Action" />
+  <img src="profile.gif" width="700px" alt="Hazem Mohamed, AI Developer in Action" />
 </p>
 
 ### 👨‍💻 About Me
