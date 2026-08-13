@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raghavx/raghavx/main/assets/banner.gif" width="600px" alt="AI & Data Science GIF" />
+  <img src="image_5.png" width="700px" alt="Hazem Mohamed, AI Developer in Action" />
 </p>
 
 ### 👨‍💻 About Me
