@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="profile2.jfif" width="700px" alt="Hazem Mohamed, AI Developer in Action" />
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="700px" alt="AI Developer in Action" />
 </p>
 
 ### 👨‍💻 About Me
