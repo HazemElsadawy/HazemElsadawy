@@ -1,14 +1,14 @@
 # Hi there, I'm Hazem Mohamed 👋 🤖
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hazem-m-sadawy-558299362"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sadawy2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.kaggle.com/hazemmohammed120"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://codeforces.com/profile/Sadawy17"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.linkedin.com/in/hazem-m-sadawy-558299362"><img src="https://img.shields.io/badge/LinkedIn-22404A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sadawy2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-22404A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.kaggle.com/hazemmohammed120"><img src="https://img.shields.io/badge/Kaggle-22404A?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://codeforces.com/profile/Sadawy17"><img src="https://img.shields.io/badge/Codeforces-22404A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="700px" alt="AI Developer in Action" />
+  <img src="avatar.png" width="850px" alt="Hazem Mohamed - AI Developer in Action" />
 </p>
 
 ### 👨‍💻 About Me
@@ -53,6 +53,6 @@ I am an **Artificial Intelligence & Data Science Engineer** passionate about bui
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazemElsadawy&show_icons=true&theme=tokyonight" alt="Hazem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemElsadawy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemElsadawy&show_icons=true&theme=nord" alt="Hazem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemElsadawy&layout=compact&theme=nord" alt="Top Languages" width="48%" />
 </p>
